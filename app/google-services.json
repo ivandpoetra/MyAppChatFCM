@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "382608313881",
+    "project_id": "myappchatfcm",
+    "storage_bucket": "myappchatfcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382608313881:android:63238d5341d252c099a488",
+        "android_client_info": {
+          "package_name": "com.ivanbadru.myappchatfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382608313881-ms7c0sghegqfurbl04rh172bdnh29cf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBorZI-F16lmWxr5RVZdELkex-0CSamyMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382608313881-ms7c0sghegqfurbl04rh172bdnh29cf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
